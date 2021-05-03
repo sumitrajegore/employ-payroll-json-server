@@ -1,0 +1,22 @@
+{
+  "employee": [
+    {
+      "name": "jhon",
+      "profile": "../assets/images/Ellipse -1.png",
+      "gender": "Female",
+      "department": "sales",
+      "salary": "100000",
+      "startdate": "16-September-2020",
+      "id": 5
+    },
+    {
+      "name": "SUMIT Rajegore",
+      "profile": "../assets/images/Ellipse -2.png",
+      "gender": "Male",
+      "department": "hr",
+      "salary": "200000",
+      "startdate": "21-November-2017",
+      "id": 8
+    }
+  ]
+}

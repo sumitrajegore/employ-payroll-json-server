@@ -1,0 +1,50 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\javascript"
+		},
+		{
+			"path": "..\\..\\new JavaScript"
+		},
+		{
+			"path": "..\\..\\Html file"
+		},
+		{
+			"path": "..\\..\\EmpPayRoll-JS"
+		},
+		{
+			"path": "..\\..\\Emppayroll-json server"
+		},
+		{
+			"path": "..\\..\\home-page"
+		},
+		{
+			"path": "..\\..\\AddressBook-App"
+		},
+		{
+			"path": "..\\..\\workshop"
+		},
+		{
+			"path": "..\\..\\Workshop Complete"
+		},
+		{
+			"path": "..\\..\\gambling problem"
+		},
+		{
+			"path": "..\\..\\UserRegistration"
+		},
+		{
+			"path": "..\\..\\practise"
+		},
+		{
+			"path": "..\\..\\Emppayroll-Application"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Emppayroll-App Json-server",
+		"liveServer.settings.useLocalIp": true
+	}
+}
